@@ -41,8 +41,8 @@ The notebook includes a variety of insightful visualizations such as:
 - Count plots for match wins by teams and venues
 - Pivot tables for death over anlysis
 
-<!-- Sample Visulization -->
-<!-- ![IPL Teams Total matches vs Total Wins ] ![Screenshot 2025-04-11 160700](https://github.com/user-attachments/assets/12801435-51bb-428d-9ea3-9a7ea6e5ef30)-->
+Sample Visulization
+[IPL Teams Total matches vs Total Wins ](https://github.com/user-attachments/assets/12801435-51bb-428d-9ea3-9a7ea6e5ef30)
 
 ## 🔍 Sample Insights
 
